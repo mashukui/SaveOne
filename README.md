@@ -4,15 +4,15 @@
 
 **One link. One public video.**
 
-SaveOne is a lightweight online video downloader for saving one public video at a time from YouTube, TikTok, Instagram, X, or Reddit. Paste a link, preview the video, and download the best file currently available from the source platform.
+SaveOne is a lightweight online video downloader for saving one public video at a time from YouTube, TikTok, Instagram, Facebook, X, or Reddit. Paste a link, preview the video, and download the best file currently available from the source platform.
 
-[Try SaveOne](https://saveone.pro/) · [Report a problem or suggest an improvement](../../issues)
+[Try SaveOne](https://saveone.pro/) · [Report a problem or suggest an improvement](https://github.com/mashukui/SaveOne/issues)
 
 ![SaveOne online video downloader](screenshots/desktop-seo-home.png)
 
 ## What SaveOne offers
 
-- Supports public videos from YouTube, TikTok, Instagram, X, and Reddit
+- Supports public videos from YouTube, TikTok, Instagram, Facebook, X, and Reddit
 - Shows the title, source, duration, and estimated size before downloading
 - Selects the best available quality and combines video and audio when possible
 - Adds no watermark of its own; the source video may already contain one
@@ -38,7 +38,7 @@ Supported platforms may change their websites, access rules, or media formats wi
 
 ## Feedback and bug reports
 
-This repository is the public feedback channel for SaveOne. Please use [GitHub Issues](../../issues) to report:
+This repository is the public feedback channel for SaveOne. Please use [GitHub Issues](https://github.com/mashukui/SaveOne/issues) to report:
 
 - A public video link that cannot be read or downloaded
 - A file with missing audio, incorrect quality, or an unexpected format
@@ -48,7 +48,7 @@ This repository is the public feedback channel for SaveOne. Please use [GitHub I
 
 For a useful report, include the source platform, public video URL, expected result, actual result, browser, device, country or region, and the exact error message when available.
 
-Do not post account credentials, cookies, access tokens, private links, personal information, or downloaded media files. For copyright or takedown requests, use the [SaveOne contact page](https://saveone.pro/contact).
+Do not post account credentials, cookies, access tokens, private links, personal information, or downloaded media files. Submit copyright or takedown requests through [GitHub Issues](https://github.com/mashukui/SaveOne/issues).
 
 ## Source code
 
@@ -60,7 +60,7 @@ No open-source license is granted for the SaveOne application. Unless explicitly
 
 Use SaveOne only for public media that you created, have permission to use, or may lawfully download. You are responsible for following the source platform's terms and applicable copyright laws.
 
-SaveOne is an independent service and is not affiliated with, endorsed by, or sponsored by YouTube, TikTok, Instagram, X, Reddit, or their parent companies.
+SaveOne is an independent service and is not affiliated with, endorsed by, or sponsored by YouTube, TikTok, Instagram, Facebook, X, Reddit, or their parent companies.
 
 ## Links
 
@@ -68,5 +68,4 @@ SaveOne is an independent service and is not affiliated with, endorsed by, or sp
 - About: [https://saveone.pro/about](https://saveone.pro/about)
 - Terms: [https://saveone.pro/terms](https://saveone.pro/terms)
 - Privacy: [https://saveone.pro/privacy](https://saveone.pro/privacy)
-- Feedback: [GitHub Issues](../../issues)
-
+- Feedback: [GitHub Issues](https://github.com/mashukui/SaveOne/issues)
