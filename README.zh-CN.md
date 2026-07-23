@@ -4,15 +4,15 @@
 
 **一个链接，一个公开视频。**
 
-SaveOne 是一款轻量级在线视频下载工具，支持逐个保存来自 YouTube、TikTok、Instagram、X 和 Reddit 的公开视频。粘贴链接、确认视频信息，即可下载来源平台当前提供的最佳可用文件。
+SaveOne 是一款轻量级在线视频下载工具，支持逐个保存来自 YouTube、TikTok、Instagram、Facebook、X 和 Reddit 的公开视频。粘贴链接、确认视频信息，即可下载来源平台当前提供的最佳可用文件。
 
-[立即使用 SaveOne](https://saveone.pro/zh-cn/) · [报告问题或提出建议](../../issues)
+[立即使用 SaveOne](https://saveone.pro/zh-cn/) · [报告问题或提出建议](https://github.com/mashukui/SaveOne/issues)
 
 ![SaveOne 在线视频下载工具](screenshots/desktop-seo-home.png)
 
 ## SaveOne 能做什么
 
-- 支持 YouTube、TikTok、Instagram、X 和 Reddit 的公开视频
+- 支持 YouTube、TikTok、Instagram、Facebook、X 和 Reddit 的公开视频
 - 下载前展示标题、来源、时长和预估文件大小
 - 自动选择最佳可用画质，并在条件允许时合并视频和音频
 - SaveOne 不会添加水印，但原视频本身可能带有水印
@@ -38,7 +38,7 @@ SaveOne 是一款轻量级在线视频下载工具，支持逐个保存来自 Yo
 
 ## 问题反馈与建议
 
-本仓库是 SaveOne 的公开反馈渠道。你可以通过 [GitHub Issues](../../issues) 反馈：
+本仓库是 SaveOne 的公开反馈渠道。你可以通过 [GitHub Issues](https://github.com/mashukui/SaveOne/issues) 反馈：
 
 - 无法识别或下载的公开视频链接
 - 下载文件无声音、画质不正确或格式异常
@@ -48,7 +48,7 @@ SaveOne 是一款轻量级在线视频下载工具，支持逐个保存来自 Yo
 
 为了方便定位问题，请尽量提供来源平台、公开视频链接、预期结果、实际结果、浏览器、设备、所在国家或地区，以及完整的错误提示。
 
-请不要提交账号密码、Cookie、访问令牌、私密链接、个人信息或下载后的媒体文件。版权或下架请求请通过 [SaveOne 联系页面](https://saveone.pro/zh-cn/contact) 提交。
+请不要提交账号密码、Cookie、访问令牌、私密链接、个人信息或下载后的媒体文件。版权或下架请求请通过 [GitHub Issues](https://github.com/mashukui/SaveOne/issues) 提交。
 
 ## 关于源代码
 
@@ -60,7 +60,7 @@ SaveOne 应用没有授予任何开源许可。除非另有明确说明，SaveOn
 
 请仅下载由你创作、已获得使用许可，或法律允许下载的公开媒体。你需要自行遵守来源平台的服务条款和适用的版权法律。
 
-SaveOne 是独立服务，与 YouTube、TikTok、Instagram、X、Reddit 及其母公司不存在隶属、认可或赞助关系。
+SaveOne 是独立服务，与 YouTube、TikTok、Instagram、Facebook、X、Reddit 及其母公司不存在隶属、认可或赞助关系。
 
 ## 相关链接
 
@@ -68,4 +68,4 @@ SaveOne 是独立服务，与 YouTube、TikTok、Instagram、X、Reddit 及其�
 - 关于 SaveOne：[https://saveone.pro/zh-cn/about](https://saveone.pro/zh-cn/about)
 - 使用条款：[https://saveone.pro/zh-cn/terms](https://saveone.pro/zh-cn/terms)
 - 隐私政策：[https://saveone.pro/zh-cn/privacy](https://saveone.pro/zh-cn/privacy)
-- 问题反馈：[GitHub Issues](../../issues)
+- 问题反馈：[GitHub Issues](https://github.com/mashukui/SaveOne/issues)
