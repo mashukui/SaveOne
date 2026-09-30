@@ -4,7 +4,7 @@
 
 **一个链接，一个公开视频。**
 
-SaveOne 是一款轻量级在线视频下载工具，支持逐个保存来自 YouTube、TikTok、Instagram、Facebook、X 和 Reddit 的公开视频。粘贴链接、确认视频信息，即可下载来源平台当前提供的最佳可用文件。
+SaveOne 是一款轻量级在线视频下载工具，支持逐个保存来自 TikTok、Instagram、Facebook、X 的公开视频。粘贴链接、确认视频信息，即可下载来源平台当前提供的最佳可用文件。
 
 [立即使用 SaveOne](https://saveone.pro/zh-cn/) · [报告问题或提出建议](https://github.com/mashukui/SaveOne/issues)
 
@@ -12,7 +12,7 @@ SaveOne 是一款轻量级在线视频下载工具，支持逐个保存来自 Yo
 
 ## SaveOne 能做什么
 
-- 支持 YouTube、TikTok、Instagram、Facebook、X 和 Reddit 的公开视频
+- 支持 TikTok、Instagram、Facebook、X 的公开视频
 - 下载前展示标题、来源、时长和预估文件大小
 - 自动选择最佳可用画质，并在条件允许时合并视频和音频
 - SaveOne 不会添加水印，但原视频本身可能带有水印

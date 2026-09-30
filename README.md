@@ -4,7 +4,7 @@
 
 **One link. One public video.**
 
-SaveOne is a lightweight online video downloader for saving one public video at a time from YouTube, TikTok, Instagram, Facebook, X, or Reddit. Paste a link, preview the video, and download the best file currently available from the source platform.
+SaveOne is a lightweight online video downloader for saving one public video at a time from TikTok, Instagram, Facebook, or X. Paste a link, preview the video, and download the best file currently available from the source platform.
 
 [Try SaveOne](https://saveone.pro/) · [Report a problem or suggest an improvement](https://github.com/mashukui/SaveOne/issues)
 
@@ -12,7 +12,7 @@ SaveOne is a lightweight online video downloader for saving one public video at 
 
 ## What SaveOne offers
 
-- Supports public videos from YouTube, TikTok, Instagram, Facebook, X, and Reddit
+- Supports public videos from TikTok, Instagram, Facebook, and X
 - Shows the title, source, duration, and estimated size before downloading
 - Selects the best available quality and combines video and audio when possible
 - Adds no watermark of its own; the source video may already contain one
